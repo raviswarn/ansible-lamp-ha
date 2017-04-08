@@ -1,0 +1,12 @@
+[webservers]
+swarnaravistar4.mylabserver.com
+swarnaravistar5.mylabserver.com
+
+[dbservers]
+swarnaravistar6.mylabserver.com
+
+[lbservers]
+swarnaravistar5.mylabserver.com
+
+[monitoring]
+swarnaravistar4.mylabserver.com
